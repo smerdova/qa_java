@@ -1,12 +1,10 @@
-import com.example.Cat;
 import com.example.Feline;
 import org.junit.Before;
 import org.junit.Test;
-import org.mockito.Mockito;
 
 import java.util.List;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 public class FelineTest {
 
